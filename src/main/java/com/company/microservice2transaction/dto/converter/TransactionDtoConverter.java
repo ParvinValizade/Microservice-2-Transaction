@@ -4,7 +4,6 @@ import com.company.microservice2transaction.dto.TransactionDto;
 import com.company.microservice2transaction.model.Transaction;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
-import org.springframework.stereotype.Component;
 
 import java.util.List;
 
